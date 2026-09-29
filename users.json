@@ -9,7 +9,10 @@
     ]
   },
   "test@example.com": {
-    "paid": true
+    "paid": true,
+    "devices": [
+      "dev-77x06u0ef-mumen2hg"
+    ]
   },
   "demo@gmail.com": {
     "paid": true,
