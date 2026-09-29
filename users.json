@@ -9,7 +9,7 @@
     ]
   },
   "test@example.com": {
-    "paid": false
+    "paid": true
   },
   "demo@gmail.com": {
     "paid": true,
