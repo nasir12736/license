@@ -1,6 +1,6 @@
 {
   "salaarkhan8905@gmail.com": {
-    "paid": true,
+    "paid": false,
     "plan": "lifetime",
     "expiry": "2099-12-31",
     "usdt_txid": "demo_tx_001",
