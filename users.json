@@ -12,7 +12,7 @@
     "paid": true
   },
   "demo@gmail.com": {
-    "paid": true,
+    "paid": false,
     "plan": "lifetime",
     "expiry": "2099-12-31"
   }
