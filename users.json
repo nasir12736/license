@@ -3,14 +3,6 @@
     "paid": true,
     "plan": "lifetime",
     "expiry": "2099-12-31",
-    "usdt_txid": "demo_tx_001"
-  },
-  "test@example.com": {
-    "paid": false
-  },
-  "demo@gmail.com": {
-    "paid": true,
-    "plan": "lifetime",
-    "expiry": "2099-12-31"
+    "devices": []
   }
 }
