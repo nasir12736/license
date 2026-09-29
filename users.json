@@ -1,25 +1,72 @@
 {
   "salaarkhan8905@gmail.com": {
-    "paid": false,
+    "paid": true,
     "plan": "lifetime",
     "expiry": "2099-12-31",
     "usdt_txid": "demo_tx_001",
-    "devices": [
-      "dev-jugb62lhx-mumct47h"
-    ]
+    "devices": []
   },
-  "test@example.com": {
-    "paid": true,
-    "devices": [
-      "dev-77x06u0ef-mumen2hg"
-    ]
-  },
-  "demo@gmail.com": {
+  "ali.khan@gmail.com": {
     "paid": true,
     "plan": "lifetime",
     "expiry": "2099-12-31",
-    "devices": [
-      "dev-qplw6xp3m-mumfr5qi"
-    ]
+    "usdt_txid": "fake_tx_ali_001",
+    "devices": []
+  },
+  "ahmed.raza@gmail.com": {
+    "paid": true,
+    "plan": "lifetime",
+    "expiry": "2099-12-31",
+    "usdt_txid": "fake_tx_ahmed_002",
+    "devices": []
+  },
+  "hassan.ali@gmail.com": {
+    "paid": true,
+    "plan": "yearly",
+    "expiry": "2027-12-31",
+    "usdt_txid": "fake_tx_hassan_003",
+    "devices": []
+  },
+  "usman.tariq@gmail.com": {
+    "paid": false,
+    "plan": "monthly",
+    "expiry": "2025-06-30",
+    "usdt_txid": "fake_tx_usman_004",
+    "devices": []
+  },
+  "bilal.nixx@gmail.com": {
+    "paid": true,
+    "plan": "lifetime",
+    "expiry": "2099-12-31",
+    "usdt_txid": "fake_tx_bilal_005",
+    "devices": []
+  },
+  "zain.malik@gmail.com": {
+    "paid": true,
+    "plan": "lifetime",
+    "expiry": "2099-12-31",
+    "usdt_txid": "fake_tx_zain_006",
+    "devices": []
+  },
+  "farhan.sheikh@gmail.com": {
+    "paid": true,
+    "plan": "yearly",
+    "expiry": "2027-06-30",
+    "usdt_txid": "fake_tx_farhan_007",
+    "devices": []
+  },
+  "hamza.javed@gmail.com": {
+    "paid": false,
+    "plan": "trial",
+    "expiry": "2025-03-15",
+    "usdt_txid": "fake_tx_hamza_008",
+    "devices": []
+  },
+  "saad.iqbal@gmail.com": {
+    "paid": true,
+    "plan": "lifetime",
+    "expiry": "2099-12-31",
+    "usdt_txid": "fake_tx_saad_009",
+    "devices": []
   }
 }
