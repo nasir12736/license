@@ -4,7 +4,9 @@
     "plan": "lifetime",
     "expiry": "2099-12-31",
     "usdt_txid": "demo_tx_001",
-    "devices": []
+    "devices": [
+      "dev-l2jwsgcwp-muo9s8ie"
+    ]
   },
   "ali.khan@gmail.com": {
     "paid": true,
