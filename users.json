@@ -13,7 +13,9 @@
     "plan": "lifetime",
     "expiry": "2099-12-31",
     "usdt_txid": "fake_tx_ali_001",
-    "devices": []
+    "devices": [
+      "dev-yp15fed8k-muoa0189"
+    ]
   },
   "ahmed.raza@gmail.com": {
     "paid": true,
