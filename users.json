@@ -22,7 +22,9 @@
     "plan": "lifetime",
     "expiry": "2099-12-31",
     "usdt_txid": "fake_tx_ahmed_002",
-    "devices": []
+    "devices": [
+      "dev-yvsbaylbk-mvsn2gsq"
+    ]
   },
   "hassan.ali@gmail.com": {
     "paid": true,
