@@ -77,6 +77,8 @@
     "plan": "lifetime",
     "expiry": "2099-12-31",
     "usdt_txid": "fake_tx_saad_009",
-    "devices": []
+    "devices": [
+      "dev-0pmsd2tzz-mvskigr3"
+    ]
   }
 }
