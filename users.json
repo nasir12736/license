@@ -72,7 +72,9 @@
     "plan": "lifetime",
     "expiry": "2029-03-15",
     "usdt_txid": "fake_tx_hamza_008",
-    "devices": []
+    "devices": [
+      "dev-ys8tphlae-mvsni24g"
+    ]
   },
   "shahtrader12k@gmail.com": {
     "paid": true,
