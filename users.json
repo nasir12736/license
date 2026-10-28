@@ -61,7 +61,9 @@
     "plan": "yearly",
     "expiry": "2027-06-30",
     "usdt_txid": "fake_tx_farhan_007",
-    "devices": []
+    "devices": [
+      "dev-439cx7o2o-mvsjjfhi"
+    ]
   },
   "hamza.javed@gmail.com": {
     "paid": false,
