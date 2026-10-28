@@ -29,7 +29,9 @@
     "plan": "yearly",
     "expiry": "2027-12-31",
     "usdt_txid": "fake_tx_hassan_003",
-    "devices": []
+    "devices": [
+      "dev-yp15fed8k-muoa0189"
+    ]
   },
   "usman.tariq@gmail.com": {
     "paid": false,
