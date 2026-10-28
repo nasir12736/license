@@ -52,7 +52,9 @@
     "plan": "lifetime",
     "expiry": "2099-12-31",
     "usdt_txid": "fake_tx_zain_006",
-    "devices": []
+    "devices": [
+      "dev-jr62pnziy-mvsiivgt"
+    ]
   },
   "farhan.sheikh@gmail.com": {
     "paid": true,
