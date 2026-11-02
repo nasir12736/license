@@ -36,7 +36,7 @@
     ]
   },
   "usman.tariq@gmail.com": {
-    "paid": false,
+    "paid": true,
     "plan": "monthly",
     "expiry": "2025-06-30",
     "usdt_txid": "fake_tx_usman_004",
@@ -47,9 +47,7 @@
     "plan": "lifetime",
     "expiry": "2099-12-31",
     "usdt_txid": "fake_tx_bilal_005",
-    "devices": [
-      "dev-jexyze5in-mun89awl"
-    ]
+    "devices": []
   },
   "zain.malik@gmail.com": {
     "paid": true,
